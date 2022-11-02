@@ -1,5 +1,5 @@
 # Demo project for Spring Boot and RabbitMQ
-Projeto de demonstração com a utilização de Springboot e RabbitMQ
+Projeto de demonstração com a utilização de Springboot e RabbitMQ, para fins didaticos.
 
 
 ## RabbitMQ Simulator
